@@ -9,7 +9,7 @@ I'm **Aleksandr**, iOS Developer.
 * MVVM, MVP
 * GSD, Operation
 * SPM, CocoaPods
-* JSON, URLSession,
+* JSON, URLSession, Codable
 * UserDefaults, FileManager, Keychain
 * CoreData, Realm, Firebase
 * Notifications
