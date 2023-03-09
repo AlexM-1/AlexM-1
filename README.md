@@ -29,8 +29,9 @@ I'm **Aleksandr**, iOS Developer.
 * [**File Manager**](https://github.com/AlexM-1/FileManager) - Homeworks on the subjects **FileManager**, **UserDefaults**, **Keychain**
 * [**MapKit_CoreLocation**](https://github.com/AlexM-1/MapKit_CoreLocation/tree/main) - Homeworks on the subjects **MapKit**, **CoreLocation**
 * [**Media Player**](https://github.com/AlexM-1/MediaPlayer/tree/main) - Homework on the subject **AVFoundation**
-*
-*
+* [**SwiftUI miniApp**](https://github.com/AlexM-1/SwiftUI_miniApp) and
+  [**SwiftUI demo**](https://github.com/AlexM-1/SwiftUI-demo) - Homeworks on the subject **SwiftUI**
+* [**NavigationApp**](https://github.com/AlexM-1/NavigationApp) - Degree work for the profession **iOS developer**
 
 
 ## Contact Me
