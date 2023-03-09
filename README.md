@@ -26,9 +26,9 @@ I'm **Aleksandr**, iOS Developer.
 
 * [**My Habits**](https://github.com/AlexM-1/MyHabits) - Course work on **UIKit**
 * [**Weather App**](https://github.com/AlexM-1/WeatherApp) - Сourse work on **Data Storage** from scratch. Stack: **JSON**, **RestAPI**, **HTTP**, **CoreLocation**, **CoreData**
-* [**File Manager**]() - Homeworks on the subjects **FileManager**, **UserDefaults**, **Keychain**
-* [**MapKit_CoreLocation**](https://github.com/AlexM-1/MapKit_CoreLocation/tree/main) - Homeworks on the subjects **MapKit**, **CoreLocation**,
-* [**Media Player**]() - Homework on the subject **AVFoundation**
+* [**File Manager**](https://github.com/AlexM-1/FileManager) - Homeworks on the subjects **FileManager**, **UserDefaults**, **Keychain**
+* [**MapKit_CoreLocation**](https://github.com/AlexM-1/MapKit_CoreLocation/tree/main) - Homeworks on the subjects **MapKit**, **CoreLocation**
+* [**Media Player**](https://github.com/AlexM-1/MediaPlayer/tree/main) - Homework on the subject **AVFoundation**
 *
 *
 
